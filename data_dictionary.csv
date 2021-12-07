@@ -1,0 +1,12 @@
+Variable Name,Description
+customer_id,Identifier for customers
+customer_bod,Date of birth of the customer
+gender,Gender of the customer
+phone_flag,If Mobile no. was shared by the customer then flagged as 1
+student,If customer a student then labeled Yes
+employment,Employment Type of the customer (Salaried/Self Employed)
+credit_card,If customer has credit cards then flagged as 1
+balance,Total principal outstanding amount of the active loans
+income,Estimated income of customer
+tenure,Loan tenure
+default,Payment default
